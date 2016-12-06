@@ -7,4 +7,8 @@ comments: false
 
 ### 网页设计
 
-* [个人/产品简介-全屏简洁风格](https://ensyuu.github.io/demo/personal/index.html)
+* [个人/产品简介 - 全屏简洁风格](https://ensyuu.github.io/demo/personal/index.html)
+
+### 动画特效
+
+* [粒子风 - 超魔性滑稽](https://ensyuu.github.io/demo/laugh/index.html)
