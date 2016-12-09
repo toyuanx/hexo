@@ -1,7 +1,7 @@
 ---
 title: Hello Hexo
 tags:
-- Hello World
+- Hello Hexo
 categories:
 - 项目开发
 ---
