@@ -8,6 +8,8 @@ categories:
 photo: 
 images: 
 
+=======
+images：
 ---
 ## 摘要
 &ensp;&ensp;&ensp;&ensp;
@@ -19,3 +21,4 @@ images:
 <a href="http://img.hb.aicdn.com/2495276fbb11a92d56901a0766fb3b53f154b5041c889c-IwBZY3_fw658" target="_blank">
 <img src="/image-url" class="full-image" />
 </a>
+<!--more-->
