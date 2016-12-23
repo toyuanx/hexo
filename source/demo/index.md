@@ -19,3 +19,6 @@ comments: false
 * [粒子风 - 超魔性滑稽](https://ensyuu.github.io/demo/laugh/index.html)
 
 * [javascript - 旋转标签云](https://ensyuu.github.io/demo/rotateCloud/index.html)
+### 动画特效
+
+* [粒子风 - 超魔性滑稽](https://ensyuu.github.io/demo/laugh/index.html)
